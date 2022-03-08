@@ -1,1 +1,14 @@
+0-alias readme
+1-hello_you readme
+2-path readme
+3-paths readme
+4-global_variables readme
 5-local_variables readme
+6-create_local_variable readme
+7-create_global_variable readme
+8-true_knowledge readme
+9-divide_and_rule readme
+10-love_exponent_breath readme
+11-binary_to_decimal readme
+12-combinations readme
+13-print_float readme
